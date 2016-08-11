@@ -34,10 +34,12 @@ http://localhost:8080/SpringSecurity/
 For Successful Login::
 -----------------------
 http://localhost:8080/SpringSecurity/login
-Username/Pwd : mkyong / 123456
-Username/Pwd : alex / 123456
+- Username/Pwd : mkyong / 123456
+- Username/Pwd : alex / 123456
 
+Login using 'mkyong', after login type http://localhost:8080/SpringSecurity/admin, you should be able to see admin page.
 
+Login using 'alex', after login type http://localhost:8080/SpringSecurity/admin, you should not be able to see admin page.
 
 
 
