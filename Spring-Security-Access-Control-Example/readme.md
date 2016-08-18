@@ -1,0 +1,1 @@
+Spring-Security-Access-Control-Example-----------------------------------How to run the app?http://localhost:8080/Spring-Security-Access-Control-Example/adminThis should create a acess denied error.User/Pwd : mkyong / passwordThe below credentials should work fine.User/Pwd : eclipse / password
